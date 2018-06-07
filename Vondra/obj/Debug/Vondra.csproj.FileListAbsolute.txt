@@ -1,0 +1,25 @@
+c:\users\maturita24\documents\visual studio 2015\Projects\Vondra\Vondra\bin\Debug\Vondra.exe.config
+c:\users\maturita24\documents\visual studio 2015\Projects\Vondra\Vondra\obj\Debug\Vondra.csprojResolveAssemblyReference.cache
+c:\users\maturita24\documents\visual studio 2015\Projects\Vondra\Vondra\obj\Debug\Vondra.MainForm.resources
+c:\users\maturita24\documents\visual studio 2015\Projects\Vondra\Vondra\obj\Debug\Vondra.Properties.Resources.resources
+c:\users\maturita24\documents\visual studio 2015\Projects\Vondra\Vondra\obj\Debug\Vondra.csproj.GenerateResource.Cache
+c:\users\maturita24\documents\visual studio 2015\Projects\Vondra\Vondra\bin\Debug\Vondra.exe
+c:\users\maturita24\documents\visual studio 2015\Projects\Vondra\Vondra\bin\Debug\Vondra.pdb
+c:\users\maturita24\documents\visual studio 2015\Projects\Vondra\Vondra\obj\Debug\Vondra.exe
+c:\users\maturita24\documents\visual studio 2015\Projects\Vondra\Vondra\obj\Debug\Vondra.pdb
+c:\users\maturita24\documents\visual studio 2015\Projects\Vondra\Vondra\obj\Debug\Vondra.EditForm.resources
+c:\users\maturita24\documents\visual studio 2015\Projects\Vondra\Vondra\obj\Debug\Vondra.DetailForm.resources
+C:\Users\Hacke\Desktop\Vondra\Vondra\bin\Debug\Vondra.exe.config
+C:\Users\Hacke\Desktop\Vondra\Vondra\obj\Debug\Vondra.exe
+C:\Users\Hacke\Desktop\Vondra\Vondra\obj\Debug\Vondra.pdb
+E:\Projects\Vondra - Maturita\Vondra\bin\Debug\Vondra.exe.config
+E:\Projects\Vondra - Maturita\Vondra\bin\Debug\Vondra.exe
+E:\Projects\Vondra - Maturita\Vondra\bin\Debug\Vondra.pdb
+E:\Projects\Vondra - Maturita\Vondra\obj\Debug\Vondra.csprojResolveAssemblyReference.cache
+E:\Projects\Vondra - Maturita\Vondra\obj\Debug\Vondra.DetailForm.resources
+E:\Projects\Vondra - Maturita\Vondra\obj\Debug\Vondra.EditForm.resources
+E:\Projects\Vondra - Maturita\Vondra\obj\Debug\Vondra.MainForm.resources
+E:\Projects\Vondra - Maturita\Vondra\obj\Debug\Vondra.Properties.Resources.resources
+E:\Projects\Vondra - Maturita\Vondra\obj\Debug\Vondra.csproj.GenerateResource.Cache
+E:\Projects\Vondra - Maturita\Vondra\obj\Debug\Vondra.exe
+E:\Projects\Vondra - Maturita\Vondra\obj\Debug\Vondra.pdb
